@@ -1,10 +1,10 @@
 # Hi 👋, I'm Poorva Pathak
 
 🎓 **B.E. Artificial Intelligence & Data Science (2022-2026)** | Vivekanand Education Society’s Institute of Technology, Mumbai  
-💻 **Aspiring Full Stack Developer | AI/ML Enthusiast | Data Analyst**  
+💻 **Data Analyst | AI/ML Enthusiast**  
 📍 Mumbai, India
 
-I’m passionate about solving real-world problems using technology, exploring innovative solutions in AI/ML, and building impactful applications. My experience ranges from developing Flutter apps to implementing machine learning models for predictive analytics, backed by strong analytical and communication skills.
+I’m passionate about solving real-world problems using technology, exploring innovative solutions in AI/ML, and building impactful applications. My experience ranges from developing Flutter apps to implementing Machine Learning models for predictive analytics, backed by strong analytical and communication skills.
 
 ---
 
@@ -24,15 +24,6 @@ I’m passionate about solving real-world problems using technology, exploring i
 - **Flutter Developer Intern @ KEWI Solutionary LLP (Nov 2024 – Jan 2025)**  
   - Built property management web app using Flutter & MobX  
   - Applied advanced Git workflows for team collaboration  
-
----
-
-### 🚀 Projects
-- **DoctorSurvey** – Predictive model for medical event attendance (95% accuracy) | [GitHub](https://github.com/poorvapathak/Doctor_Survey.git)  
-- **GeoPunch (SIH 2024)** – Geolocation-based attendance tracking app  
-- **ReaDle** – Kindle-inspired reading platform with personalization features  
-- **CyberGuard** – Phishing URL detection using NLP & Random Forest | [GitHub](https://github.com/poorvapathak/CyberGuard)  
-- **Stats** – Python-based statistical analysis toolkit | [GitHub](https://github.com/poorvapathak/Stats.git)  
 
 ---
 
@@ -69,6 +60,7 @@ I’m passionate about solving real-world problems using technology, exploring i
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
