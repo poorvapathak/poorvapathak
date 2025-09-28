@@ -16,7 +16,7 @@ I’m passionate about solving real-world problems using technology, exploring i
 ---
 
 ### 💼 Professional Experience
-- **Data Analyst Intern @ OziBook (Jun 2025 – Present)**  
+- **Data Analyst Intern @ OziBook (Jun 2025 – Sept 2025)**  
   - Automated lead generation using Python (Selenium, Instaloader)  
   - Designed real-time Excel & Google Sheets dashboards  
   - Collaborated with BAs to translate insights into strategies  
