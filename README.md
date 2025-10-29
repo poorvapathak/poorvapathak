@@ -58,7 +58,7 @@ I’m passionate about solving real-world problems using technology, exploring i
 
 ### 🌐 Connect with me
 <p align="left">
-  <a href="https://www.linkedin.com/in/poorva-pathak-237528257/" target="_blank">
+  <a href="www.linkedin.com/in/poorva-pathak" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
   <a href="https://github.com/poorvapathak" target="_blank">
