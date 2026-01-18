@@ -9,8 +9,7 @@ I’m passionate about solving real-world problems using technology, exploring i
 ---
 
 ### 🌱 Currently Learning
-- Advanced Machine Learning & Deep Learning  
-- Full Stack Web Development  
+- Advanced Machine Learning & Deep Learning   
 - Data Visualization & Analytics
 
 ---
