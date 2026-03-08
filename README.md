@@ -9,7 +9,8 @@ I’m passionate about solving real-world problems using technology, exploring i
 ---
 
 ### 🌱 Currently Learning
-- Advanced Machine Learning & Deep Learning   
+- Advanced Machine Learning & Deep Learning
+- Recommendation Systems
 - Data Visualization & Analytics
 
 ---
