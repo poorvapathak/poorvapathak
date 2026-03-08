@@ -1,5 +1,4 @@
-# Hi 👋 
-# I'm Poorva Pathak
+# Hi👋, I'm Poorva Pathak
 
 🎓 **B.E. Artificial Intelligence & Data Science (2022-2026)** | Vivekanand Education Society’s Institute of Technology, Mumbai  
 💻 **Data Analyst | AI/ML Enthusiast**  
