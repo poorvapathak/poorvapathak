@@ -47,14 +47,6 @@ I’m passionate about solving real-world problems using technology, exploring i
 
 ---
 
-### 🏆 Achievements
-- EY Techathon 5.0 – Qualified Presentation & Demo Round  
-- MHTECHIN Innovation Challenge 2024 – Semi-Finalist (Project: MusicALLy)  
-- Tech-Vision 2024 Herspark Ideathon – Finalist (Project: AquaWise)  
-- Tata Crucible Campus Quiz 2024 – Qualified Round 1  
-
----
-
 ### 🌐 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/poorva-pathak/" target="_blank">
