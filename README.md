@@ -2,7 +2,6 @@
 
 🎓 **B.E. Artificial Intelligence & Data Science (2022-2026)** | Vivekanand Education Society’s Institute of Technology, Mumbai  
 💻 **Data Analyst | AI/ML Enthusiast**  
-📍 Mumbai, India
 
 I’m passionate about solving real-world problems using technology, exploring innovative solutions in AI/ML, and building impactful applications. My experience ranges from developing Flutter apps to implementing Machine Learning models for predictive analytics, backed by strong analytical and communication skills.
 
