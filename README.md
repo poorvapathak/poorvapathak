@@ -17,13 +17,10 @@ I’m passionate about solving real-world problems using technology, exploring i
 
 ### 💼 Professional Experience
 - **Full Stack + AI Developer Intern @ Analytica Soft Tech (Jan 2026 – Present)**  
-  - Built the **end-to-end MVP** for an AI-enabled platform using **FastAPI (Python)** and **React (Vite + TypeScript)**  
-  - Designed a scalable **data processing and recommendation pipeline** to generate intelligent suggestions from structured data  
-  - Developed a **CSV/Excel data ingestion system** using **Pandas** with automated parsing and duplicate detection  
-  - Built responsive frontend components using **Shadcn UI and Tailwind CSS**  
-  - Integrated **Supabase authentication** and **SQLAlchemy (Async ORM)** for secure database management  
-  - Leveraging **GenAI APIs** to automate content generation and data enrichment workflows  
-  - Contributing to **full-stack product development**, from backend architecture to deployment 
+  - Built the end-to-end MVP for an AI-enabled platform using **FastAPI (Python)** and **React (Vite + TypeScript)**  
+  - Designed a scalable **data processing and recommendation pipeline** for intelligent suggestions  
+  - Implemented data ingestion workflows using **Pandas**, integrated **Supabase + SQLAlchemy**, and leveraged **GenAI APIs**
+
     
 - **Data Analyst Intern @ OziBook (Jun 2025 – Sept 2025)**  
   - Automated lead generation using Python (Selenium, Instaloader)  
