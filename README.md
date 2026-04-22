@@ -63,17 +63,28 @@ I’m passionate about solving real-world problems using technology, exploring i
 ---
 
 ### 🌐 Connect with me
-<p align="left">
+
+<table>
+<tr>
+<td>
   <a href="https://www.linkedin.com/in/poorva-pathak/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-</a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+</td>
+
+<td>
   <a href="https://github.com/poorvapathak" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40"/>
   </a>
+</td>
+
+<td>
   <a href="mailto:pathakpoorva16@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40"/>
   </a>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
