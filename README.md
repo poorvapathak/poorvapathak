@@ -16,11 +16,9 @@ I’m passionate about solving real-world problems using technology, exploring i
 
 ### 💼 Professional Experience
 - **Technical Product Analyst Intern @ Workik (Apr 2026 – Present)**  
-  - Analyzed user sessions and event data to identify drop-offs and errors  
-  - Investigated system issues (data, integrations, workflows) and suggested fixes  
-  - Performed end-to-end testing with edge cases to uncover hidden bugs  
-  - Built dashboards for user behavior and product performance insights  
-  - Created documentation of pain points with solutions
+  - Improving platform experience through product analytics, technical testing, and system-level problem solving
+  - Analyzing user sessions, flows, and integrations to identify drop-offs, bugs, and UX gaps
+  - Building dashboards, testing edge cases, and documenting actionable product improvements  
 
 - **Full Stack + AI Developer Intern @ Analytica Soft Tech (Jan 2026 – Present)**  
   - Built the end-to-end MVP for an AI-enabled platform using **FastAPI (Python)** and **React (Vite + TypeScript)**  
