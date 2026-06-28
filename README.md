@@ -117,8 +117,6 @@ I’m passionate about solving real-world problems using technology, exploring i
 
 </div>
 
----
-
 ### 🛠 Languages & Tools
 
 <table>
