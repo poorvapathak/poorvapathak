@@ -35,6 +35,90 @@ I’m passionate about solving real-world problems using technology, exploring i
   - Applied advanced Git workflows for team collaboration  
 
 ---
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=poorvapathak&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=poorvapathak&show_icons=true&theme=default&hide_border=true&rank_icon=github"
+    media="(prefers-color-scheme: light)"
+  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=poorvapathak&show_icons=true&hide_border=true&rank_icon=github" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=poorvapathak&layout=compact&theme=github_dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=poorvapathak&layout=compact&theme=default&hide_border=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poorvapathak&layout=compact&hide_border=true" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com?user=poorvapathak&theme=github-dark-blue&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com?user=poorvapathak&theme=default&hide_border=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://streak-stats.demolab.com?user=poorvapathak&hide_border=true" />
+</picture>
+
+</div>
+
+---
+<div align="center">
+
+<picture>
+  <source
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=poorvapathak&theme=github-dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=poorvapathak&theme=github-light&hide_border=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=poorvapathak&hide_border=true" />
+</picture>
+
+</div>
+---
+<div align="center">
+
+<picture>
+  <source
+    srcset="https://github-profile-trophy.vercel.app/?username=poorvapathak&theme=onestar&no-frame=true&row=1"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-profile-trophy.vercel.app/?username=poorvapathak&theme=flat&no-frame=true&row=1"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-profile-trophy.vercel.app/?username=poorvapathak&no-frame=true&row=1" />
+</picture>
+
+</div>
+---
+
 
 ### 🛠 Languages & Tools
 
