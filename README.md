@@ -35,7 +35,6 @@ I’m passionate about solving real-world problems using technology, exploring i
   - Applied advanced Git workflows for team collaboration  
 
 ---
----
 
 ## 📊 GitHub Statistics
 
@@ -117,8 +116,8 @@ I’m passionate about solving real-world problems using technology, exploring i
 </picture>
 
 </div>
----
 
+---
 
 ### 🛠 Languages & Tools
 
