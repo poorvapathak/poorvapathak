@@ -26,7 +26,7 @@ I’m passionate about solving real-world problems using technology, exploring i
   - Implemented data ingestion workflows using **Pandas**, integrated **Supabase + SQLAlchemy**, and leveraged **GenAI APIs**
   
 - **Data Analyst Intern @ OziBook (Jun 2025 – Sept 2025)**  
-  - Automated lead generation using Python (Selenium, Instaloader)  
+  - Automated lead generation using Python (Selenium, Google CSE)  
   - Designed real-time Excel & Google Sheets dashboards  
   - Collaborated with BAs to translate insights into strategies  
 
