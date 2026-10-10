@@ -15,12 +15,18 @@ I’m passionate about solving real-world problems using technology, exploring i
 ---
 
 ### 💼 Professional Experience
-- **Technical Product Analyst Intern @ Workik (Apr 2026 – Present)**  
+- **Junior Product Analyst @ Sciative Solutions (Aug 2026 – Present)**  
+  - Analysing product-matching errors and recommending improvements to automated matching logic
+  - Tracking client sales performance across Flipkart, Amazon, and Myntra to document business outcomes from Sciative's sales data
+  - Researching competitor websites and identifying opportunities for product and website improvements
+  - Defining use cases, reviewing wireframes, and performing functional QA with the technology team
+
+- **Technical Product Analyst Intern @ Workik (Apr 2026 – Jul 2026)**  
   - Improving platform experience through product analytics, technical testing, and system-level problem solving
   - Analyzing user sessions, flows, and integrations to identify drop-offs, bugs, and UX gaps
   - Building dashboards, testing edge cases, and documenting actionable product improvements  
 
-- **Full Stack + AI Developer Intern @ Analytica Soft Tech (Jan 2026 – Present)**  
+- **Full Stack + AI Developer Intern @ Analytica Soft Tech (Jan 2026 – Jul 2026)**  
   - Built the end-to-end MVP for an AI-enabled platform using **FastAPI (Python)** and **React (Vite + TypeScript)**  
   - Designed a scalable **data processing and recommendation pipeline** for intelligent suggestions  
   - Implemented data ingestion workflows using **Pandas**, integrated **Supabase + SQLAlchemy**, and leveraged **GenAI APIs**
