@@ -122,6 +122,9 @@ I’m passionate about solving real-world problems using technology, exploring i
 ---
 
 
-![Profile Views](https://shieldcn.dev/views/user/poorvapathak.svg?base=716&variant=branded)
+<p align="left">
+  <img src="https://shieldcn.dev/views/user/poorvapathak.svg?base=716&variant=flat&color=0e75b6" alt="Profile views" />
+</p>
+
 
 
