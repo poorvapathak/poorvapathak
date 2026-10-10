@@ -121,7 +121,6 @@ I’m passionate about solving real-world problems using technology, exploring i
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=poorvapathak&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile views" />
-</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=poorvapathak)
 
