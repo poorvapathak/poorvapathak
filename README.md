@@ -45,11 +45,28 @@ I’m passionate about solving real-world problems using technology, exploring i
 
 ## 📊 GitHub Streak
 
+
+## 📊 GitHub Streak
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=poorvapathak&theme=github-dark-blue)](https://git.io/streak-stats)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com?user=poorvapathak&theme=github-dark-blue&hide_border=true"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com?user=poorvapathak&theme=default&hide_border=true"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=poorvapathak&theme=default&hide_border=true"
+    alt="GitHub Streak"
+  />
+</picture>
 
 </div>
+
 
 
 ---
