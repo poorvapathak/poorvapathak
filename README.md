@@ -122,5 +122,6 @@ I’m passionate about solving real-world problems using technology, exploring i
 ---
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=poorvapathak)
+![Profile Views](https://views.igorkowalczyk.dev/api/badge/poorvapathak)
+
 
